@@ -7,7 +7,7 @@
 
 %% Load model
 disp('Loading model...');
-netdir = '/home/mjmarin/research/hpe3d/ddp/Release/';
+netdir = './Data/';
 
 matnet = fullfile(netdir, 'net_ITOP_top_noseg.mat');
 
@@ -24,8 +24,10 @@ net.mode = 'test' ;
 
 %% Load sample test data
 disp('Loading data...');
-datadir = '/home/mjmarin/research/hpe3d/ddp/Release/';
+datadir = './Data/';
 matimdb = fullfile(datadir, 'samples_ITOP_top_noseg.mat');
+
+load(matimdb);
 
 %% Estimating poses
 disp('Estimating poses...');
@@ -75,6 +77,7 @@ for ix = 1:size(mEstimatedJoints,2)
    
    set(gcf, 'Position', [10 10 720 480]);
    set(gcf, 'Name', sprintf('Sample %03d', ix));
+   set(gcf, 'Color', 'white');
          
    for aa = 0:10:180, view(aa, 135), drawnow,pause(1/25), end
    
