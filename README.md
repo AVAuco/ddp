@@ -20,7 +20,7 @@ If everything worked fine, a new figure showing the estimated poses should be op
 
 ## Qualitative results
 
-[![Estimations on ITOP](http://www.uco.es/~in1majim/research/images/sample000040DepthF.png)](https://www.youtube.com/embed/4gPI-GOf9wg)
+[[Estimations on ITOP](http://www.uco.es/~in1majim/research/images/sample000040DepthF.png)](https://www.youtube.com/embed/4gPI-GOf9wg)
 
 
 ## References
