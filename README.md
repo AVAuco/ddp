@@ -4,6 +4,10 @@ This is support code for [1].
 
 Visit the [project web page](http://www.uco.es/~in1majim/research/ddp.html) (under construction) for further information.
 
+<div align="center">
+  <img src="https://www.uco.es/~in1majim/research/images/pipeline_ddp.jpg"><br><br>
+</div>
+
 ## Quick start
 
 This code has been tested on Ubuntu 16.04 with Matlab R2017a and [MatConvNet-1.0-beta25](http://www.vlfeat.org/matconvnet/)  
@@ -21,8 +25,11 @@ If everything worked fine, a new figure showing the estimated poses should be op
 ## Qualitative results
 
 Video with estimations on ITOP:  
-[![Estimations on ITOP](https://img.youtube.com/vi/4gPI-GOf9wg/0.jpg)](https://www.youtube.com/watch?v=4gPI-GOf9wg "Watch video")
-
+<div align="center">
+<a href="https://www.youtube.com/watch?v=4gPI-GOf9wg" alt="Watch video" title="Watch video">
+<img src="https://img.youtube.com/vi/4gPI-GOf9wg/0.jpg">
+</a>
+</div>
 
 ## References
 
