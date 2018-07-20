@@ -25,6 +25,6 @@ If everything worked fine, a new figure showing the estimated poses should be op
 
 ## References
 
-[1] Manuel J. Marin-Jimenez, Francisco J. Romero-Ramirez, Rafael Muñoz-Salinas, Rafael Medina-Carnicer  
-*3D Pose Estimation from Depth Maps using a Deep combination of Poses*  
+[1] [Manuel J. Marin-Jimenez](http://www.uco.es/~in1majim/), Francisco J. Romero-Ramirez, Rafael Muñoz-Salinas, Rafael Medina-Carnicer  
+[*3D Pose Estimation from Depth Maps using a Deep combination of Poses*](https://arxiv.org/abs/1807.05389)  
 Journal of Visual Communication and Image Representation (in press), 2018   
