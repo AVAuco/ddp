@@ -2,7 +2,7 @@
 
 This is support code for [1].
 
-Visit the [project web page](http://www.uco.es/~in1majim/research/ddp.html) (under construction) for further information.
+Visit the [project web page](http://www.uco.es/~in1majim/research/ddp.html) for further information.
 
 <div align="center">
   <img src="https://www.uco.es/~in1majim/research/images/pipeline_ddp.jpg"><br><br>
@@ -35,4 +35,14 @@ Video with estimations on ITOP:
 
 [1] [Manuel J. Marin-Jimenez](http://www.uco.es/~in1majim/), Francisco J. Romero-Ramirez, Rafael Muñoz-Salinas, Rafael Medina-Carnicer  
 [*3D Pose Estimation from Depth Maps using a Deep combination of Poses*](https://arxiv.org/abs/1807.05389)  
-Journal of Visual Communication and Image Representation (in press), 2018   
+Journal of Visual Communication and Image Representation (in press), 2018
+```
+@Article{Marin18ijvcr,
+  author     = "Marin-Jimenez, M.J. and Romero-Ramirez, F.J. and Mu\~noz-Salinas, R. and Medina-Carnincer, R.",
+  title      = "3D Pose Estimation from Depth Maps using a Deep combination of Poses",
+  journal    = "Journal of Visual Communication and Image Representation",
+  year       = "2018",
+  doi  = "https://doi.org/10.1016/j.jvcir.2018.07.010",
+  note = "In press"
+}
+```
