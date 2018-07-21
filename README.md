@@ -18,9 +18,14 @@ run <matconvnet_root>/matlab/vl_setupnn.m
 cd <ddp_root>  
 addpath(genpath(pwd))  
 mj_testITOPmodel  
-
 ```
-If everything worked fine, a new figure showing the estimated poses should be opened.
+If everything worked fine, a new figure showing the estimated poses should be opened.  
+Alternatively, after the setup steps, you can run the following demo:  
+```
+mj_testITOPmodel_frontal
+```
+
+Note that first of all you have to download the 'mat' data files as indicated in the folder 'Data'.
 
 ## Qualitative results
 
