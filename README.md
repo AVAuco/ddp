@@ -27,6 +27,15 @@ mj_testITOPmodel_frontal
 
 Note that first of all you have to download the 'mat' data files as indicated in the folder 'Data'.
 
+## Code reference
+
+### How to load the original ITOP data?
+
+An example of how to read the ITOP depth maps and skeletons can be found in:
+```
+Utils/mj_loadITOPdataFromH5
+```
+
 ## Qualitative results
 
 Video with estimations on ITOP:  
