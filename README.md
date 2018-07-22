@@ -51,7 +51,7 @@ Video with estimations on ITOP:
 [*3D Pose Estimation from Depth Maps using a Deep combination of Poses*](https://arxiv.org/abs/1807.05389)  
 Journal of Visual Communication and Image Representation (in press), 2018
 ```
-@Article{Marin18ijvcr,
+@Article{Marin18jvcir,
   author     = "Marin-Jimenez, M.J. and Romero-Ramirez, F.J. and Mu\~noz-Salinas, R. and Medina-Carnincer, R.",
   title      = "3D Pose Estimation from Depth Maps using a Deep combination of Poses",
   journal    = "Journal of Visual Communication and Image Representation",
